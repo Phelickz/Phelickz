@@ -6,7 +6,7 @@ Hi there 👋, I'm Felix
 Here are some ideas to get you started:
 -->
 
-Skills: Flutter / Dart / UI Design / JavaScript / Python
+Skills: Flutter / Dart / Golang / JavaScript / Python
 
 - 🔭 I’m currently working on lots and lots of apps
 - 🌱 I’m currently learning a few languages
