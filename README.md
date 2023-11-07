@@ -6,12 +6,12 @@ Hi there 👋, I'm Felix
 Here are some ideas to get you started:
 -->
 
-Skills: Flutter / Dart / Golang / JavaScript / Python
+Skills: Typescript / Flutter / Dart / Golang / JavaScript / Python
 
 - 🔭 I’m currently working on lots and lots of apps
 - 🌱 I’m currently learning a few languages
-- 👯 I’m looking to collaborate on Flutter Projects.
-- 💬 Ask me about Flutter...
+- 👯 I’m looking to collaborate on Flutter Projects and NodeJs projects.
+- 💬 Ask me about Flutter, NodeJS, Data Science...
 - 📫 How to reach me: 
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='18'>](https://twitter.com/FeolixaHope)
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='G-mail' height='18' color = 'blue'>](felixhope30@gmail.com)
